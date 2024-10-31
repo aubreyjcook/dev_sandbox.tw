@@ -1,2 +1,10 @@
-# _TEMPLATE_dev_sandbox.ajc
-Technology-agnostic sandbox environment for developing implementations of programming solutions.
+# dev_sandbox.tw
+
+A dedicated Tailwind CSS sandbox for experimentation and learning.
+
+## Getting Started
+
+### Install Dependencies
+
+```bash
+npm install
