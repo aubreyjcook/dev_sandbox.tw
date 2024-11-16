@@ -1,10 +1,7 @@
 # dev_sandbox.tw
 
-A dedicated Tailwind CSS sandbox for experimentation and learning.
+## Purpose
 
-## Getting Started
+This repo is intended to act as technology-agnostic sandbox environment for developing implementations of programming solutions built primarily in Tailwind.CSS, independent of other technologies.
 
-### Install Dependencies
-
-```bash
-npm install
+[Tailwind.CSS Technology Outline](tailwind-css-outline.md)
