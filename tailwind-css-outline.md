@@ -32,6 +32,8 @@ Tailwind as a framework in contrast to Bootstrap is mostly defined by what it do
 
 #### Documentation
 
+**[Tailwind Configuration](https://tailwindcss.com/docs/configuration)**
+
 #### Tutorials
 
 #### Articles
